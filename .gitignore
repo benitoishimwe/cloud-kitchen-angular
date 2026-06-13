@@ -40,3 +40,10 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+
+# Generic logs
+*.log
